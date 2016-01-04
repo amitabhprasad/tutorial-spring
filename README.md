@@ -1,0 +1,1 @@
+This is to demo **spring with hibernate** using spring boot 1.3.1 and other dependencies
