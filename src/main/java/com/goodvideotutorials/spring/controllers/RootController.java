@@ -19,7 +19,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.goodvideotutorials.spring.dto.SignupForm;
 import com.goodvideotutorials.spring.mail.MailSender;
-
+/**
+ * Root controller
+ * @author amitabh
+ *
+ */
 //@RestController
 @Controller
 public class RootController {
