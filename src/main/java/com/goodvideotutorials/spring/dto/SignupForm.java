@@ -4,6 +4,11 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
 
+/**
+ * Signup form DTO class
+ * @author amitabh
+ *
+ */
 public class SignupForm {
 	
 	@NotNull
